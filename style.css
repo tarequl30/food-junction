@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.highlight{
+    color: rgb(214, 168, 51);
+    font-size: 50px;
+    font-weight: 700;
+}
+p{
+    color: rgb(75, 73, 73);
+}
+.buy-now-button{
+    background-color: rgba(206, 107, 157, 0.555);
+    border: 0;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.burger{
+    box-shadow: 15px 15px 25px rgba(128, 128, 128, 0.431);
+    border-radius: 20px;
+}
+h5{
+    color: rgb(128, 42, 10)
+}
